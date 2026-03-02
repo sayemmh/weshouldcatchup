@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "345UAJF999.com.sayem.WeShouldCatchUp",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
